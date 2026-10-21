@@ -2,6 +2,10 @@
 
 ShopAdmin é um painel administrativo para acompanhar as principais informações de uma loja virtual. A interface reúne indicadores de vendas, pedidos, produtos e clientes em uma experiência responsiva, com suporte a tema claro e escuro.
 
+## 🌐Demonstração
+
+Acesse o projeto em produção: [ShopAdmin](https://dashboard-e-commerce-alpha.vercel.app/)
+
 ## ✨Funcionalidades
 
 - **Painel:** indicadores de receita, pedidos, ticket médio e clientes, gráficos, produtos mais vendidos e alertas de estoque.
